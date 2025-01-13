@@ -18,8 +18,11 @@ Besides, I am passionate about learning new programming concepts and deeply enjo
 
 ###
 
-<h6 align="left">🗂 Top languages used in my repositories: </h6>
+<h6 align="left">🏆 Top languages used in my repositories: </h6>
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rubiks05&layout=compact&theme=dark)
+
+
+
 
 
