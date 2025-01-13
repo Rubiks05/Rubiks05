@@ -1,16 +1,18 @@
-## Hi there 👋
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/81/A_Hacker_Works_at_a_COmputer_in_a_Dark_Room.png" alt="Hacker working in a dark room" width="400px" align="right">
 
-<!--
-**Rubiks05/Rubiks05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="left">Hi, my name is Antonio da Ressurreição Filho 🤓</h3>
 
-Here are some ideas to get you started:
+I am currently a third-period **Computer Science** student at the Federal University of Paraná.
+<br />
+Besides, I am passionate about learning new programming concepts and deeply enjoy my course.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<h6 align="left">🖥 Main languages ​​and tools: </h6>
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=cpp,c,python,pascal,github,vscode,vim,git&theme=dark&perline=4" alt="C++, C, Python, Pascal, GitHub, Visual Studio Code, Vim, and Git logos" />
+</div>
+
+###
+
