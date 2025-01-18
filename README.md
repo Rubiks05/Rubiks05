@@ -2,7 +2,7 @@
 
 <h3 align="left">🤓 Hi, my name is Antonio da Ressurreição Filho </h3>
 
-I am currently a third-period **Computer Science** student at the Federal University of Paraná.
+I am currently a third-period **Computer Science** student at the Federal University of Paraná (UFPR).
 Besides, I am passionate about learning new programming concepts and deeply enjoy my course.
 
 ###
