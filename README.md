@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/Rubiks05/Rubiks05/main/dark_room.png" alt="Hacker working in a dark room" width="400px" align="right">
 
-<h3 align="left">🤓 Hi, my name is Antonio da Ressurreição Filho </h3>
+<h3 align="left">🤓 Hi, my name is Antonio da Ressurreição Filho! </h3>
 
 I am currently a third-period **Computer Science** student at the Federal University of Paraná (UFPR).
 Besides, I am passionate about learning new programming concepts and deeply enjoy my course.
