@@ -26,6 +26,9 @@ Besides, I am passionate about learning new programming concepts and deeply enjo
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rubiks05&layout=compact&theme=dark&v=1)
 
+<h6 align="left">⏰ My activity: </h6>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rubiks05&count_private=true&show_icons=true&theme=dark)
 
 
 
