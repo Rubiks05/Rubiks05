@@ -28,7 +28,7 @@ Besides, I am passionate about learning new programming concepts and deeply enjo
 
 <h6 align="left">⏰ My activity: </h6>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rubiks05&count_private=true&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rubiks05&count_private=true&show_icons=true&theme=dark&cache_seconds=60)
 
 
 
