@@ -27,11 +27,17 @@ Besides, I am passionate about learning new programming concepts and deeply enjo
 
 <h6 align="left">🏆 Top languages used in my repositories: </h6>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rubiks05&layout=compact&theme=dark&v=1)
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Rubiks05&layout=compact&theme=dark&title_color=00FF6A&text_color=8B8B8B&bg_color=000&border_radius=3&border_color=006633)
 
 <h6 align="left">⏰ My activity: </h6>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rubiks05&count_private=true&show_icons=true&theme=dark&cache_seconds=60)
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Rubiks05&count_private=true&show_icons=true&theme=dark&cache_seconds=60&title_color=00FF6A&text_color=FFF&bg_color=000&border_radius=3&border_color=006633&icon_color=00FF6A)
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rubiks05/Rubiks05/output/github-contribution-grid-snake-dark.svg?color_snake=00FF6A">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rubiks05/Rubiks05/output/github-contribution-grid-snake-dark.svg?color_snake=00FF6A">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Rubiks05/Rubiks05/output/github-contribution-grid-snake.svg?color_snake=00FF6A">
+</picture>
 
 
 
