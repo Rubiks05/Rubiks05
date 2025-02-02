@@ -1,10 +1,14 @@
-<img src="https://raw.githubusercontent.com/Rubiks05/Rubiks05/main/dark_room.png" alt="Hacker working in a dark room" width="400px" align="right">
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=34&pause=1000&color=30F700&background=FFFFFF00&width=604&height=110&lines=Hi%2C+my+name+is+Antonio+R.F+%F0%9F%A4%93%E2%80%8B" alt="Typing SVG" />
+  </a>
+</div>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=30F700&background=FFFFFF00&width=435&lines=Hi%2C+my+name+is+Antonio+R.F+%F0%9F%A4%93%E2%80%8B" alt="Typing SVG" />
-</a>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Rubiks05/Rubiks05/main/dark_room.png" alt="Hacker working in a dark room" width="400px" />
+</div>
 
-I am currently a third-period **Computer Science** student at the Federal University of Paraná (UFPR).
-Besides, I am passionate about learning new programming concepts and deeply enjoy my course.
+
+I am currently a third-period Computer Science student at the Federal University of Paraná (UFPR). Furthermore, I am deeply passionate about acquiring new programming skills and thoroughly enjoy my studies. My aspiration is to evolve into a highly proficient professional in the tech industry, contributing to the development of innovative and secure solutions in the future.
 
 ### 🌐 My Website:  
 **➡️ [Rubiks05.github.io](https://Rubiks05.github.io/)**  
