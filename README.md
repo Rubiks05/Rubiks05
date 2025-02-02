@@ -5,7 +5,10 @@
 I am currently a third-period **Computer Science** student at the Federal University of Paraná (UFPR).
 Besides, I am passionate about learning new programming concepts and deeply enjoy my course.
 
-###
+### 🌐 My Website  
+**➡️ [Rubiks05.github.io](https://Rubiks05.github.io/)**  
+
+---
 
 
 <h6 align="left">🖥 Main languages ​​and tools: </h6>
