@@ -8,7 +8,7 @@
 </div>
 
 
-I am currently a third-period Computer Science student at the Federal University of Paraná (UFPR). Furthermore, I am deeply passionate about acquiring new programming skills and thoroughly enjoy my studies. My aspiration is to evolve into a highly proficient professional in the tech industry, contributing to the development of innovative and secure solutions in the future.
+I am currently a third-period Computer Science student at the Federal University of Paraná (UFPR). Furthermore, I am deeply passionate about acquiring new programming skills and thoroughly enjoy my studies. Therefore, my aspiration is to evolve into a highly proficient professional in the tech industry, contributing to the development of innovative and secure solutions in the future.
 
 ### 🌐 My Website:  
 **➡️ [Rubiks05.github.io](https://Rubiks05.github.io/)**  
