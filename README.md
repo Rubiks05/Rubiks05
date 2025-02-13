@@ -33,7 +33,7 @@ I am currently a third-period Computer Science student at the Federal University
 
 ### 🏆 Top languages used in my repositories:
 
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Rubiks05&layout=compact&theme=dark&title_color=00FF6A&text_color=8B8B8B&bg_color=000&border_radius=3&border_color=006633&cache_seconds=60)
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Rubiks05&layout=compact&theme=dark&title_color=00FF6A&text_color=8B8B8B&bg_color=000&border_radius=3&border_color=006633&cache_seconds=59)
 
 <br>
 
