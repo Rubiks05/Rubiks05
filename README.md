@@ -31,15 +31,11 @@ I am currently a third-period Computer Science student at the Federal University
 
 <br>
 
-### 🏆 Top languages used in my repositories:
-
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Rubiks05&layout=compact&theme=dark&title_color=00FF6A&text_color=8B8B8B&bg_color=000&border_radius=3&border_color=006633&cache_seconds=60)
-
-<br>
-
-### ⏰ My activity:
-
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Rubiks05&count_private=true&show_icons=true&theme=dark&cache_seconds=30&title_color=00FF6A&text_color=FFF&bg_color=000&border_radius=3&border_color=006633&icon_color=00FF6A)
+### 🏆 Top languages used in my repositories and My Activity⏰:
+<div align="center">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Rubiks05&layout=compact&theme=dark&title_color=00FF6A&text_color=8B8B8B&bg_color=000&border_radius=3&border_color=006633&cache_seconds=60" height="180px"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Rubiks05&count_private=true&show_icons=true&theme=dark&cache_seconds=30&title_color=00FF6A&text_color=FFF&bg_color=000&border_radius=3&border_color=006633&icon_color=00FF6A" height="180px"/>
+</div>
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rubiks05/Rubiks05/output/github-contribution-grid-snake-dark.svg">
