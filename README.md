@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=00FF6A&section=header"/>
+
 <div align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=34&pause=1000&color=30F700&background=FFFFFF00&width=604&height=110&lines=Hi%2C+my+name+is+Antonio+R.F+%F0%9F%A4%93%E2%80%8B" alt="Typing SVG" />
   </a>
@@ -48,7 +50,7 @@ I am currently a third-period Computer Science student at the Federal University
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Rubiks05/Rubiks05/output/github-contribution-grid-snake.svg">
 </picture>
 
-
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=00FF6A&section=footer"/>
 
 
 
