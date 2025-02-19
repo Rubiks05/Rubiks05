@@ -21,7 +21,7 @@ I am currently a third-period Computer Science student at the Federal University
 ### 🖥 Main languages ​​and tools:
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,c,python,linux,pascal&theme=dark&perline=6" alt="C++, C, Python, Linux, Pascal logos" />
+  <img src="https://skillicons.dev/icons?i=cpp,c,python,linux,html&theme=dark&perline=6" alt="C++, C, Python, Linux, HTML logos" />
   <br />
   <img src="https://skillicons.dev/icons?i=github,vscode,vim,git&theme=dark&perline=4" alt="GitHub, Visual Studio Code, Vim, and Git logos" />
   <img src="https://tryhackme.com/img/favicon.png" alt="TryHackMe logo" width="40" height="40" />
