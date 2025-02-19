@@ -6,7 +6,7 @@
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Rubiks05/Rubiks05/main/dark_room.png" alt="Hacker working in a dark room" width="400px" />
+  <img src="Cybersecurity_picture.webp" alt="Hacker working in a dark room" width="400px" />
 </div>
 
 
